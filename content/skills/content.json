@@ -1,0 +1,42 @@
+{
+    "zh": {
+        "title": "我可以怎样帮到你？",
+        "items": [
+            {
+                "icon": "🤖",
+                "title": "智能硬件业务",
+                "description": "所有<strong>智能硬件</strong>方向的客户，都可以来找我，随时出击！"
+            },
+            {
+                "icon": "💻",
+                "title": "技术支持",
+                "description": "一些代码上的技术问题，也可以来找我。不是技术专家，但涉猎比较广。之前 hands-on 上手搭过且目前线上可见的系统有：Amazon Kindle 彩屏电纸书夜间模式、美团旅游度假头图玩法页面、Milvus 向量数据库 Disk-ANN 算法 Iterator 等。"
+            },
+            {
+                "icon": "🌍",
+                "title": "英文交流",
+                "description": "一些需要英语沟通的任务，我也可以上。听力/口语无问题，在前司经常和印度同事\"拉通对齐\"，激情对线，完全不虚！"
+            }
+        ]
+    },
+    "en": {
+        "title": "How I Can Help",
+        "items": [
+            {
+                "icon": "🤖",
+                "title": "Intelligent Hardware",
+                "description": "All clients in the <strong>Intelligent Hardware</strong> domain — I'm your go-to person, ready to engage anytime!"
+            },
+            {
+                "icon": "💻",
+                "title": "Technical Support",
+                "description": "I can also help with coding and technical questions. I'm not a specialist, but I've worked across a wide range of areas. Production systems I've personally built include: Amazon Kindle color e-reader dark mode, Meituan tourism header experiences, and Milvus vector database Disk-ANN algorithm Iterator, among others."
+            },
+            {
+                "icon": "🌍",
+                "title": "English Communication",
+                "description": "I'm comfortable with English communication tasks — listening and speaking are no problem. At my previous company, I regularly collaborated with international colleagues in English, handling alignment discussions with ease."
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "zh": {
+        "title": "关于转型的思考",
+        "intro": "<strong>为什么决定不接着干码农了呢？</strong> In short：时代变化的推动 + 个人性格的回归。",
+        "paragraphs": [
+            "一方面，近年来飞速发展的 AI coding 能力使得纯粹的代码技术变得越来越廉价。Claude Opus 4.5 的重磅发布以及 MCP/Skills 等技术的出现，证实了 Coding Agent 已经可以从需求理解、架构分析、代码编写、测试用例生成、构建调试、自主修复、上线监控等流程上实现闭环。我坚信旧事物的崩塌必然伴随着新事物的诞生，转型阵痛的同时也一定伴随着新的机遇。",
+            "另一方面，我打小就嘴贫话多坐不住，梦想有一天可以滔滔不绝地给各种人讲。PDSA 这种岗位又能说话，又能看技术，又能看项目，又能天南海北到处跑，真是不错诶，大喜，遂冲！"
+        ],
+        "quote": "未来最重要的能力是 Vision 和 Taste。在模糊的环境下，总能做出那个\"对\"的选择——在不确定性中勇往直前！"
+    },
+    "en": {
+        "title": "On Career Transition",
+        "intro": "<strong>Why did I stop being a full-time software engineer?</strong> In short: the push of a changing era + a return to my natural personality.",
+        "paragraphs": [
+            "On one hand, the rapid development of AI coding capabilities has made pure coding skills increasingly commoditized. The release of Claude Opus 4.5 and technologies like MCP/Skills have proven that Coding Agents can already achieve end-to-end automation across requirement analysis, architecture design, code generation, testing, debugging, and deployment. I firmly believe that the collapse of old paradigms inevitably brings the birth of new ones — with pain comes new opportunity.",
+            "On the other hand, I've always been talkative and restless since childhood, dreaming of a day when I could speak passionately to all kinds of people. The PDSA role lets me talk, explore technology, manage projects, and travel — the perfect fit!"
+        ],
+        "quote": "The most important abilities for the future are Vision and Taste. Being able to consistently make the \"right\" choice in ambiguous environments — charging forward through uncertainty!"
+    }
+}

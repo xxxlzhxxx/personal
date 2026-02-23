@@ -1,0 +1,72 @@
+{
+    "zh": {
+        "title": "经历",
+        "items": [
+            {
+                "company": "ByteDance",
+                "current": true,
+                "role": "方舟 PDSA · 智能硬件方向",
+                "description": "又能说话，又能看技术，又能看项目，又能天南海北到处跑——发挥全部潜能的舞台!"
+            },
+            {
+                "company": "Amazon",
+                "current": false,
+                "role": "软件工程师 — Kindle",
+                "description": "参与 Kindle 彩屏电纸书夜间模式开发，在全球化团队中磨练了跨文化沟通能力。"
+            },
+            {
+                "company": "Meituan",
+                "current": false,
+                "role": "软件工程师 — 旅游度假",
+                "description": "负责旅游度假事业部景区/饭店头图玩法页面开发。"
+            },
+            {
+                "company": "Open Source",
+                "current": false,
+                "role": "Milvus 贡献者",
+                "description": "为 Milvus 向量数据库贡献 Disk-ANN 算法 Iterator 实现。"
+            },
+            {
+                "company": "University of Michigan",
+                "current": false,
+                "role": "🎓 计算机科学",
+                "description": "Go Blue! 在密歇根大学打下了扎实的 CS 基础。"
+            }
+        ]
+    },
+    "en": {
+        "title": "Experience",
+        "items": [
+            {
+                "company": "ByteDance",
+                "current": true,
+                "role": "Ark PDSA · Intelligent Hardware",
+                "description": "A role where I get to talk, explore tech, manage projects, and travel — the perfect stage to unleash my full potential!"
+            },
+            {
+                "company": "Amazon",
+                "current": false,
+                "role": "Software Engineer — Kindle",
+                "description": "Developed dark mode for the Kindle color e-reader, honing cross-cultural communication skills in a global team."
+            },
+            {
+                "company": "Meituan",
+                "current": false,
+                "role": "Software Engineer — Travel & Tourism",
+                "description": "Built interactive header experiences for scenic spots and restaurants in the travel division."
+            },
+            {
+                "company": "Open Source",
+                "current": false,
+                "role": "Milvus Contributor",
+                "description": "Contributed a Disk-ANN algorithm Iterator implementation to the Milvus vector database."
+            },
+            {
+                "company": "University of Michigan",
+                "current": false,
+                "role": "🎓 Computer Science",
+                "description": "Go Blue! Built a solid CS foundation at the University of Michigan."
+            }
+        ]
+    }
+}
