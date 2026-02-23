@@ -2,7 +2,7 @@
     "zh": {
         "title": "关于我",
         "paragraphs": [
-            "你好！我是<strong>李子恒</strong>，目前在 <strong>字节跳动</strong> 担任火山方舟产品解决方案架构师（PDSA），负责智能硬件方向。我毕业于<strong>上海交通大学/密歇根大学</strong>，性格开朗健谈，奇思妙想。",
+            "你好呀！我是<strong>李子恒</strong>，目前在 <strong>字节跳动</strong> 担任火山方舟产品解决方案架构师（PDSA），负责智能硬件方向。我毕业于<strong>上海交通大学/密歇根大学</strong>，性格开朗健谈，奇思妙想。",
             "我是一个热爱交流、坦诚清晰的人，喜欢天南海北乱窜。研发出身，前端、后端、Infra、算法都有涉猎。工作之外，我喜欢打篮球、拉小提琴、听音乐会、看音乐剧，偶尔也会去健身。"
         ],
         "motto": "Keep looking, never settle!"
@@ -10,7 +10,7 @@
     "en": {
         "title": "About Me",
         "paragraphs": [
-            "Hi there! I'm <strong>Kevin Li (李子恒)</strong>, currently a <strong>PDSA</strong> (Pre-sales/Developer-Solution Architect) at <strong>ByteDance</strong>, focusing on Intelligent Hardware solutions. I'm a proud <strong>University of Michigan</strong> alum (Go Blue! 🏈) and an ENTP — outgoing, talkative, and full of ideas.",
+            "Hi there! I'm <strong>Kevin Li (李子恒)</strong>, currently a <strong>PDSA</strong> (Pre-sales/Developer-Solution Architect) at <strong>ByteDance</strong>, focusing on Intelligent Hardware solutions. I'm a proud <strong>SJTU/UMich</strong> alum (Go Blue! 🏈) and an ENTP — outgoing, talkative, and full of ideas.",
             "I'm someone who loves communicating, being straightforward, and exploring new places. I come from a software engineering background spanning frontend, backend, infrastructure, and algorithms. Outside of work, I enjoy basketball 🏀, violin 🎻, concerts 🎵, musicals 🎭, and the occasional gym session 💪."
         ],
         "motto": "Keep looking, never settle!"

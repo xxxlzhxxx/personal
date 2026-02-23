@@ -4,18 +4,13 @@
         "items": [
             {
                 "icon": "🤖",
-                "title": "智能硬件业务",
-                "description": "所有<strong>智能硬件</strong>方向的客户，都可以来找我，随时出击！"
+                "title": "AI项目/创业探讨",
+                "description": "作为字节大模型2B落地第一线的参与者和观察者，我曾深度参与多个项目的设计/发展，帮助其将大模型落地到实际业务中。服务过的客户涵盖传统行业龙头，AI Native创业公司，互联网公司，泛体制内机构等；如果你对AI感兴趣，或者有任何有趣的点子，抑或是创业的想法，随时欢迎与我交流！"
             },
             {
                 "icon": "💻",
                 "title": "技术支持",
-                "description": "一些代码上的技术问题，也可以来找我。不是技术专家，但涉猎比较广。之前 hands-on 上手搭过且目前线上可见的系统有：Amazon Kindle 彩屏电纸书夜间模式、美团旅游度假头图玩法页面、Milvus 向量数据库 Disk-ANN 算法 Iterator 等。"
-            },
-            {
-                "icon": "🌍",
-                "title": "英文交流",
-                "description": "一些需要英语沟通的任务，我也可以上。听力/口语无问题，在前司经常和印度同事\"拉通对齐\"，激情对线，完全不虚！"
+                "description": "一些代码上的技术问题，也许我也可以帮到你。虽然谈不上技术专家，但涉猎比较广，参与过多家大厂核心业务开发并上线。"
             }
         ]
     },
@@ -24,18 +19,13 @@
         "items": [
             {
                 "icon": "🤖",
-                "title": "Intelligent Hardware",
-                "description": "All clients in the <strong>Intelligent Hardware</strong> domain — I'm your go-to person, ready to engage anytime!"
+                "title": "AI Projects / Startup Discussions",
+                "description": "As a frontline participant and observer of ByteDance's B2B large model deployment, I've been deeply involved in the design and development of multiple projects, helping integrate large models into real-world business scenarios. Clients I've served span traditional industry leaders, AI-native startups, internet companies, and public-sector organizations. If you're interested in AI, have any cool ideas, or are thinking about starting something — feel free to reach out anytime!"
             },
             {
                 "icon": "💻",
                 "title": "Technical Support",
-                "description": "I can also help with coding and technical questions. I'm not a specialist, but I've worked across a wide range of areas. Production systems I've personally built include: Amazon Kindle color e-reader dark mode, Meituan tourism header experiences, and Milvus vector database Disk-ANN algorithm Iterator, among others."
-            },
-            {
-                "icon": "🌍",
-                "title": "English Communication",
-                "description": "I'm comfortable with English communication tasks — listening and speaking are no problem. At my previous company, I regularly collaborated with international colleagues in English, handling alignment discussions with ease."
+                "description": "I may also be able to help with coding and technical questions. While I wouldn't call myself a deep specialist, I have broad exposure and have contributed to core product development at several major tech companies."
             }
         ]
     }
